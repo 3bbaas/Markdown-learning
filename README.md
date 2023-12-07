@@ -66,7 +66,7 @@ _italic text_
 * item
 - item 
     - item
-        - tem
+        - item
 1. item
 2. item
 3. item
@@ -75,7 +75,7 @@ _italic text_
 - item
 - item
   - item
-    - tem
+    - item
 
 1. item
 2. item
