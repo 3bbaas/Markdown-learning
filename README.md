@@ -192,3 +192,5 @@ int main(){
 >> Qoute 4
 
 ---
+
+### End of Basics
