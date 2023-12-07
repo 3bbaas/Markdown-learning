@@ -38,8 +38,8 @@ _italic text_
 #### Strikethrough
 
 ---
-`~~Bold Text~~`  
-~~Bold Text~~
+`~~Strikethrough Text~~`  
+~~Strikethrough Text~~
 
 ---
 
