@@ -16,7 +16,7 @@
 
 - Advanced
   - [Collapsible items](./Advanced%20markdown.md#Collapsible-items)
-  - 
+
 ---
 ---
 
