@@ -7,8 +7,8 @@
   - [Heading](#Heading)
   - [Lists](#Lists)
   - [links](#Links)
-  - [Images](#)
-  - [Print Horizontal](#)
+  - [Images](#Images)
+  - [Horizontal line](#Horizontal-line)
   - [Codes](#)
   - [Tables](#)
 
@@ -91,5 +91,51 @@ _italic text_
 [Markdown](https://github.com/A-3bbas/Markdown-learning)
 
 [Table of contents](#Table-of-contents)
+
+---
+
+#### Images
+
+```
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png)
+```
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png)
+
+---
+
+#### Horizontal line
+
+```
+---
+```
+
+---
+
+---
+
+#### Codes
+
+```
+```c++
+#include<iostream>
+using namespace std;
+int main(){
+  int n;
+  cin >> n;
+  cout << n+3;
+}```
+```
+ 
+
+```c++
+#include<iostream>
+using namespace std;
+int main(){
+  int n;
+  cin >> n;
+  cout << n+3;
+}
+```
 
 ---
