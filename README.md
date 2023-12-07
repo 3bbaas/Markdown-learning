@@ -10,15 +10,19 @@
   - [Images](#Images)
   - [Horizontal line](#Horizontal-line)
   - [Codes](#Codes)
-  - [Tables](#)
+  - [Tables](#Tables)
+  - [Task list](#Task-lists)
+  - [Blockquotes](#Blockquotes)
 
-
+- Advanced
+  - [Collapsible items](#Collapsible-items)
+  - 
 ---
 ---
 
 #### Text formatting
 
-```
+```markdown
 **bold text**
 _italic text_  
 ~~Strikethrough Text~~
@@ -34,7 +38,7 @@ _italic text_
 
 ### Heading
 
-```
+```markdown
 # Header 1
 ## Header 2
 ### Header 3
@@ -57,7 +61,7 @@ _italic text_
 
 ### Lists
 
-```
+```markdown
 - item
 * item
 - item 
@@ -80,7 +84,8 @@ _italic text_
 ---
 
 #### Links
-```
+
+```markdown
 [Markdown](https://github.com/A-3bbas/Markdown-learning)
 [Table of contents](#Table-of-contents)
 ```
@@ -92,7 +97,7 @@ _italic text_
 
 #### Images
 
-```
+```markdown
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png)
 ```
 
@@ -102,7 +107,7 @@ _italic text_
 
 #### Horizontal line
 
-```
+```markdown
 ---
 ```
 
@@ -112,7 +117,7 @@ _italic text_
 
 #### Codes
 
-~~~~markdown
+~~~markdown
 ```c++
 #include<iostream>
 using namespace std;
@@ -122,7 +127,7 @@ int main(){
   cout << n+3;
 }
 ```
-~~~~
+~~~
 
 ```c++
 #include<iostream>
@@ -139,5 +144,51 @@ int main(){
 #### Tables
 
 ```
-
+| row header 1  | row header 2   |
+| ------------- | -------------- |
+| e1            | e2             |
+| e3            | e4             |
 ```
+
+| row header 1  | row header 2   |
+| ------------- | -------------- |
+| e1            | e2             |
+| e3            | e4             |
+
+---
+
+#### Task lists
+
+```markdown
+- [ ] Task 1
+- [ ] Task 2
+- [x] Task 3
+```
+
+- [ ] Task 1
+- [ ] Task 2
+- [x] Task 3
+
+---
+
+#### Blockquotes
+
+```markdown
+> Quote 1
+>
+> Quote 2
+>
+>> Qoute 3
+>>
+>> Qoute 4
+```
+
+> Quote 1
+>
+> Quote 2
+>
+>> Qoute 3
+>>
+>> Qoute 4
+
+---
