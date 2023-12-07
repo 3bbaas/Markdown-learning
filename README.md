@@ -4,8 +4,8 @@
 
 - Basics
   - [Font Style](#Font-Style)
-  - [Heading](#)
-  - [lists](#)
+  - [Heading](#Heading)
+  - [Lists](#Lists)
   - [links](#)
   - [Images](#)
   - [Print Horizontal](#)
