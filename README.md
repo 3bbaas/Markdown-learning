@@ -6,7 +6,7 @@
   - [Font Style](#Font-Style)
   - [Heading](#Heading)
   - [Lists](#Lists)
-  - [links](#)
+  - [links](#Links)
   - [Images](#)
   - [Print Horizontal](#)
   - [Codes](#)
@@ -20,26 +20,18 @@
 
 ---
 
-#### Bold
+#### Text formatting
 
----
-`**bold text**`  
+```
+**bold text**
+_italic text_  
+~~Strikethrough Text~~
+```  
+
 **Bold Text**
 
----
-
-#### Italic
-
----
-`_italic text_`  
 _italic text_
 
----
-
-#### Strikethrough
-
----
-`~~Strikethrough Text~~`  
 ~~Strikethrough Text~~
 
 ---
@@ -81,12 +73,23 @@ _italic text_
 ```
 
 - item
-* item
-
-- item 
-    - item
-        - tem
+- item
+  - item
+    - tem
 
 1. item
 2. item
 3. item
+
+---
+
+#### Links
+```
+[Markdown](https://github.com/A-3bbas/Markdown-learning)
+[Table of contents](#Table-of-contents)
+```
+[Markdown](https://github.com/A-3bbas/Markdown-learning)
+
+[Table of contents](#Table-of-contents)
+
+---
