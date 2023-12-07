@@ -15,7 +15,7 @@
   - [Blockquotes](#Blockquotes)
 
 - Advanced
-  - [Collapsible items](#Collapsible-items)
+  - [Collapsible items](./Advanced%20markdown.md#Collapsible-items)
   - 
 ---
 ---
