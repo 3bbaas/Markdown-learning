@@ -3,7 +3,7 @@
 ## Table of contents
 
 - Basics
-  - [Font Style](#Font-Style)
+  - [Text formatting](#Text-formatting)
   - [Heading](#Heading)
   - [Lists](#Lists)
   - [links](#Links)
@@ -14,10 +14,6 @@
 
 
 ---
----
-
-### Font Style
-
 ---
 
 #### Text formatting
